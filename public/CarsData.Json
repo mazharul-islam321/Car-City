@@ -1,0 +1,16 @@
+[
+    {
+      "key": "sdsfg34534",
+      "companyName": "tesla",
+      "carName": "model-x",
+      "price": 345345,
+      "img": "http://placehold.it/32x32",
+      "star": 3,
+      "starCount": 345,
+      "feature": "auto-pilot",
+      "topSpeed": "200mph",
+      "range": "399mi",
+      "peakPower": "1020hp",
+      "color": "green"
+    }
+  ]
