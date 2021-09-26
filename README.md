@@ -4,6 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available information
 
-.this my Car City website.
-.this site for showing car.
-.people car see their favourite car.
+#this my Car City website.
+#this site for showing car.
+#people car see their favourite car.
