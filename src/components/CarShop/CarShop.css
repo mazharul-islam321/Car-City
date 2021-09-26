@@ -1,0 +1,13 @@
+.shop-container {
+    width: 100%;
+    background-color: #fffffe;
+    display: flex;
+}
+.car-container {
+    width: 75%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.cart-container {
+    width: 25%;
+}

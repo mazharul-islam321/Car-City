@@ -1,0 +1,22 @@
+.cart-section {
+    box-shadow: rgba(0, 0, 0, 0.637) 0px 5px 15px;
+    background-color: #0f0e17;
+    border-radius: 5px;
+    margin: 15px 15px;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    color: #fffffe;
+}
+.cart-section ul {
+    color: #fffffe;
+    padding-right: 35px;
+}
+.cart-section ul li {
+    margin: 2px;
+    line-height: 25px;
+    box-shadow: 0 4px 8px 0 rgba(170, 165, 165, 0.363),
+        0 6px 20px 0 rgba(173, 171, 171, 0.404);
+    list-style-type: none;
+    background-color: #ff8906;
+    border: 1px solid #2e2f3e;
+}

@@ -1,0 +1,45 @@
+.car-card {
+    box-shadow: rgba(0, 0, 0, 0.637) 0px 5px 15px;
+    background-color: #0f0e17;
+    margin: 15px;
+    border-radius: 5px;
+}
+/* img style */
+.img-div {
+    padding-top: 10px;
+}
+.img-div img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+/* product style */
+.product-details {
+    text-align: left;
+    padding-left: 20px;
+}
+.product-details h3 {
+    color: #fffffe;
+}
+.product-details p {
+    color: #a7a9be;
+}
+.span {
+    color: #a7a9be;
+}
+/* button style */
+.btn-regular {
+    width: 150px;
+    height: 45px;
+    font-weight: bolder;
+    background-color: #ff8906;
+    border: 3px solid black;
+    color: white;
+    margin-bottom: 10px;
+}
+.btn-regular:hover {
+    background-color: #f25f4c;
+}
+.icon-color {
+    color: #ff8906;
+}
